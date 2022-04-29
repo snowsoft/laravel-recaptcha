@@ -1,5 +1,5 @@
 {
-    "name": "biscolab/laravel-recaptcha",
+    "name": "snowsoft/laravel-recaptcha",
     "description": "Simple and painless Google reCAPTCHA package for Laravel framework",
     "license": "MIT",
     "type": "library",
